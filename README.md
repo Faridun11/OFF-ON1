@@ -22,4 +22,4 @@ This project creates a simple **toggle switch animation**, allowing users to swi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Faridun11/repository.git
+   git clone https://github.com/Faridun11/OFF-ON1.git
